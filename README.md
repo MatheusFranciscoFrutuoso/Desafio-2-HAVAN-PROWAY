@@ -2,7 +2,7 @@
 
 Pastas do segundo desafio HAVAN-PROWAY.
 
-Para a compilação e execução sera necessario ter o java instalado e funcional.
+Para a compilação e execução sera necessario ter o java instalado e funcional ou utilizar o  ECLIPSE IDE e abrir uma pasta pelo ECLIPSE.
 
 Sendo necessario fazer a conexão a um banco de dados com as seguintes informaçoes:
 
